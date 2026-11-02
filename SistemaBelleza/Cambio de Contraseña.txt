@@ -1,3 +1,6 @@
 - En el archivo "MainUnificado" en la linea 48 se debe cambiar los asteriscos "****" por la contraseña que utilice en su Workbench
 
 - En el archivo "ConexionBD" en la linea 16 se debe cambiar los asteriscos "****" por la contraseña que utilice en su Workbench
+
+Enlace del video:
+https://drive.google.com/file/d/1x8_SZ1DUdlDWLUzpl54F3Bc-w5lb5n0m/view?usp=sharing
